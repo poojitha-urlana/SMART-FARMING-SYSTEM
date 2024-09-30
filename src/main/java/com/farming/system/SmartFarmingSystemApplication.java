@@ -8,6 +8,7 @@ public class SmartFarmingSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SmartFarmingSystemApplication.class, args);
+		System.out.println("hi");
 	}
 
 }
